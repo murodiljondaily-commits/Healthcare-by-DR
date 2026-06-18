@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+backend/venv/
+backend/.env
+*.db
+
+# Node / frontend
+frontend/node_modules/
+frontend/dist/
+
+# PM2 logs
+logs/
+
+# OS
+.DS_Store
